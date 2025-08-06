@@ -11,6 +11,8 @@ html, body {
   margin: 0;
   padding: 40px;
   background-image: url("bg.jpg");
+  background-size: auto;
+  overflow: hidden;
   color: var(--white);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
